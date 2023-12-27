@@ -48,3 +48,10 @@
   ```
 - [Game](./src/dz/abdo_pr/java/tictactoe/Game.java): the game play, he has inserted letters, players (A, B), and he checking for the winner.
 - [Main](./src/dz/abdo_pr/java/tictactoe/Main.java): the main class of the game, from here you start the game
+
+
+## Powered By (AbdoPrDZ "Just Code It");
+
+- GitHub Profile: <https://github.com/AbdoPrDZ>
+- WhatsApp + Telegram (+213778185797)
+- Facebook Account: <https://www.facebook.com/profile.php?id=100008024286034>
